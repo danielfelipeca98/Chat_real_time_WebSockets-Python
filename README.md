@@ -17,7 +17,7 @@ Chat en tiempo real con FastAPI y WebSockets.
 - **HTML/CSS** → Interfaz de usuario
 - **JavaScript** → Cliente WebSocket
 
-# 💬 Chat en Tiempo Real con WebSockets
+#  Chat en Tiempo Real con WebSockets
 
 Chat en tiempo real con FastAPI y WebSockets.
 
