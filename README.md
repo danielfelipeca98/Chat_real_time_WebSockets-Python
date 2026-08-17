@@ -1,24 +1,3 @@
-#  Chat en Tiempo Real con WebSockets
-
-Chat en tiempo real con FastAPI y WebSockets.
-
-##  Características
-
--  Comunicación en tiempo real
--  Múltiples usuarios conectados
--  Notificaciones de entrada y salida
--  Interfaz simple y moderna
--  WebSockets con FastAPI
-
-##  Tecnologías
-
-- **FastAPI** → API y WebSockets
-- **WebSockets** → Comunicación bidireccional
-- **HTML/CSS** → Interfaz de usuario
-- **JavaScript** → Cliente WebSocket
-
-#  Chat en Tiempo Real con WebSockets
-
 Chat en tiempo real con FastAPI y WebSockets.
 
 ##  Características
